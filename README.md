@@ -53,5 +53,4 @@ Le script présente différentes options tout en restant fidèle aux consignes d
 
 ### Évolutions possibles
 
-Élargir cet outil pour n'importe quelles données en choisissant en option les champs à agréger. 
-
+Universaliser ce script pour n'importe quelles champs en entrée : chargement dynamique des champs, ajout d'une option `--aggregate-by`. Pas de valeurs fixées par défaut dans les options. 
