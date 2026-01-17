@@ -53,4 +53,5 @@ Le script présente différentes options tout en restant fidèle aux consignes d
 
 ### Évolutions possibles
 
-Élargir cet outil pour n'importe quelles données en choisissant en options les champs à agréger. 
+Élargir cet outil pour n'importe quelles données en choisissant en option les champs à agréger. 
+
