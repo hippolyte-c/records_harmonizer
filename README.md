@@ -38,7 +38,7 @@ options:
 
 ### Fonctionnalités
 Le script présente différentes options tout en restant fidèle aux consignes de l'exercice :
-- agréger le document fourni en entrée par adresse IP et hash SHA1 du certificat (consigne initiale);
+- agréger les données document fourni en entrée par adresse IP et hash SHA1 du certificat (consigne initiale);
 - filtrer les enregistrements selon des seuils de comptage minimum et maximum (`--min-count` et `--max-count`);
 - filtrer les enregistrements selon des dates de première et dernière observation (`--since` et `--until`);
 - grouper les enregistrements agrégés selon un critère spécifié (`--group-by`);
@@ -54,3 +54,4 @@ Le script présente différentes options tout en restant fidèle aux consignes d
 ### Évolutions possibles
 
 Universaliser ce script pour n'importe quelles champs en entrée : chargement dynamique des champs, ajout d'une option `--aggregate-by`. Pas de valeurs fixées par défaut dans les options. 
+
